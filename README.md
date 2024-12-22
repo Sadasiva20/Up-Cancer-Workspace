@@ -1,4 +1,4 @@
-# Project Showcase
+
 
 A showcase of my projects, highlighting **front-end** and **back-end** development along with relevant documentation. This repository serves as a portfolio to demonstrate the skills and technologies I've utilized across various web development projects.
 
