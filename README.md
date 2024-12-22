@@ -13,7 +13,7 @@ Here you'll find a selection of my work, with both **front-end** and **back-end*
 
 1. **Project 1: Contact System. 
    - **Description**: A backend interface for managing a contact system.
-   - **Technologies**: React, Node.js,  AWS, DynamoDB 
+   - **Technologies**: JavaScript, Node.js, AWS, DynamoDB 
 
 ## Technologies Used
 
